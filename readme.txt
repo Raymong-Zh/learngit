@@ -1,2 +1,2 @@
-"Git is a vsersion control system." 
+"Git is a distributed vsersion control system." 
 "Git is free software." 
